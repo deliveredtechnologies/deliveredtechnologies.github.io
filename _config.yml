@@ -1,0 +1,8 @@
+theme: jekyll-theme-leap-day
+title: Delivered Technologies
+description: The Home of RuleBook
+tagline: Simplifying Software
+github:
+  repository_url: https://github.com/Clayton7510/RuleBook
+  repository_name: RuleBook
+  javadocs_url: /RuleBook/javadocs/
