@@ -2,7 +2,7 @@ _"In programming, simplicity and clarity are not a dispensable luxury, but a cru
  
 ## Meet RuleBook 
 
-[<img align="left" alt="RuleBook" src="/public/images/RuleBook.png" height="110px"/>](https://github.com/Clayton7510/RuleBook) 
+[<img align="left" alt="RuleBook" src="/public/images/RuleBook.png" height="110px"/>](https://github.com/rulebook-rules/rulebook) 
 RuleBook was created as a simple and intuitive solution to untangle business rules from application logic.
 RuleBook was built for developers. It provides a simple, but powerful rules abstraction that has an incredibly 
 short learning curve. Rules can be built using a Camel-style \[Lambda enabled\] Java Domain Specific Language (DSL) 
@@ -11,7 +11,7 @@ guesswork or unpredictable behavior, which means developers can spend more time 
 time debugging. And unlike many other rules engines, RuleBook can be used to drive workflows, where the ordering of rules is important. 
 
 RuleBook is Open Source under the Apache 2.0 License. It's 100% free to use. So, start simplifying your life and
-streamlining your code. Start using [RuleBook](https://github.com/Clayton7510/RuleBook) today!
+streamlining your code. Start using [RuleBook](https://github.com/rulebook-rules/rulebook) today!
 
 ## Recent Updates
 
