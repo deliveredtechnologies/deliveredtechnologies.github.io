@@ -10,12 +10,12 @@ or by using annotated POJOs. Rules are also executed in the way that developers 
 guesswork or unpredictable behavior, which means developers can spend more time creating useful functionality and less 
 time debugging. And unlike many other rules engines, RuleBook can be used to drive workflows, where the ordering of rules is important.
 
-### Interface First Approach
+### RuleBook's Interface First Approach
 
 The driving force behind RuleBook is that the interface should come first. This goes beyond simply defining
 Java interfaces up front. It also means that how a rules engine is used \[by developers\]should not be an afterthought
 that simply supports the underlying functionality. How it's used should be the first thing considered, and an important
-factor, if not THE most important factor that drives its development. 
+factor, if not THE most important factor that drives development. 
 
 ### RuleBook's License
 
