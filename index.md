@@ -16,8 +16,9 @@ streamlining your code. Start using [RuleBook](https://github.com/rulebook-rules
 ## Recent Updates
 
 <p class="message">
-    <b>03/23/2017</b> - RuleBook v0.4 released &raquo; <a href="https://github.com/Clayton7510/RuleBook/releases/tag/v0.4" target="_blank">DSL Updates & Refactoring</a><br/><br/>
-    <b>03/14/2017</b> - RuleBook v0.3.4 released &raquo; <a href="https://github.com/Clayton7510/RuleBook/releases/tag/v0.3.4" target="_blank">POJO Rules Enhancements</a><br/><br/>
-    <b>03/08/2017</b> - RuleBook v0.3.1 released &raquo; <a href="https://github.com/Clayton7510/RuleBook/releases/tag/v0.3.1" target="_blank">Fixed Possible Duplicate Rules on Run Bug</a><br/><br/>
-    <b>03/05/2017</b> - RuleBook v0.3 released &raquo; <a href="https://github.com/Clayton7510/RuleBook/releases/tag/v0.3" target="_blank">Enhanced Spring Support</a><br/><br/>
+    <b>04/11/2017</b> - RuleBook v0.5 released &raquo; <a href="https://github.com/rulebook-rules/rulebook/releases/tag/v0.5" target="_blank">DSL Refactoring & Enhanced Spring Support</a><br/><br/>
+    <b>03/23/2017</b> - RuleBook v0.4 released &raquo; <a href="https://github.com/rulebook-rules/rulebook/releases/tag/v0.4" target="_blank">DSL Updates & Refactoring</a><br/><br/>
+    <b>03/14/2017</b> - RuleBook v0.3.4 released &raquo; <a href="https://github.com/rulebook-rules/rulebook/releases/tag/v0.3.4" target="_blank">POJO Rules Enhancements</a><br/><br/>
+    <b>03/08/2017</b> - RuleBook v0.3.1 released &raquo; <a href="https://github.com/rulebook-rules/rulebook/releases/tag/v0.3.1" target="_blank">Fixed Possible Duplicate Rules on Run Bug</a><br/><br/>
+    <b>03/05/2017</b> - RuleBook v0.3 released &raquo; <a href="https://github.com/rulebook-rules/rulebook/releases/tag/v0.3" target="_blank">Enhanced Spring Support</a><br/><br/>
 </p>
