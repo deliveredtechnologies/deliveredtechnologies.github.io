@@ -8,7 +8,7 @@
     <meta name="author" content="Clayton Long">
     <title>{{ site.title | default: site.github.repository_name }} : {{ site.tagline }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="/public/css/unslider.css">
     <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
     <!--[if lt IE 9]>
       <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -54,6 +54,13 @@
         <ul></ul>
       </nav>
       <section>
+        <div class="rulebook-slider">
+          <ul>
+            <li>My slide</li>
+            <li>Another slide</li>
+            <li>My last slide</li>
+          </ul>
+        </div>
         {{ content }}
 
       </section>
@@ -76,5 +83,12 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+      <script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+      <script src="/public/js/unslider.js"></script>
+      <script>
+        jQuery(document).ready(function($) {
+          $('.rulebook-slider').unslider();
+        });
+      </script>
   </body>
 </html>
