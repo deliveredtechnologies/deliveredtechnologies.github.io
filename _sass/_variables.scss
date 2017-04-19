@@ -1,0 +1,183 @@
+
+//
+// VARIABLES
+//
+
+
+// Colors
+
+$black: #000;
+$darkerGray: #222;
+$darkGray: #333;
+$gray: #666;
+$lightGray: #eee;
+$white: #fff;
+$blue: #4183C4;
+
+
+// Main theme colors 
+// Some cool main theme colors(violet:#8476ad;blue:#5cacee;red:#ff7373,#ff6f69;green:#6acf64,#2ddbb3;orange:#ffa268)
+
+$mono-color:#2e7bcf;                // main theme color(header, links, footer icons, buttons, post-title)
+$hl-color: $darkGray;              // header link color (author name and posted on date) for blog post meta 
+$navbar-hover-color:$gray;        // navbar hover color (site name and navbar links hover color)
+$link-color: $darkerGray;        // normal hyperlink color other than the ones above.
+
+
+// Heading colors
+// You can play around with these too!
+$h1-color: $mono-color;
+$h2-color: $mono-color; 
+$h3-color: $darkerGray; 
+$h4-color: $gray; 
+
+// Your avatar
+
+$avatar: "/images/avatar.jpg";
+
+
+// Font stacks
+$helvetica: Helvetica, Arial, sans-serif;
+$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$raleway: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$georgia: Georgia, serif;
+
+h1.site-name {
+  color: $white;
+}
+
+// Mobile breakpoints
+@mixin mobile {
+  @media screen and (max-width: 640px) {
+    @content;
+  }
+}
+
+body {
+  min-width: 740px;
+}
+
+.intro-header {
+  background-image: url("/images/header-bg.jpg");
+}
+
+.tagline {
+  font-weight: 100;
+  font-size: 10pt;
+}
+
+.quote {
+  color: #f6f8fa;
+  font-size: 11pt;
+  font-weight: 100;
+}
+
+.rulebook-slider {
+  background-color: #f6f8fa;
+  border-radius: 5px;
+}
+
+.rulebook-slider h2 {
+  color: $black;
+  font-weight: 400;
+  margin-left: 5px;
+}
+
+.unslider-nav {
+  float: none;
+  position: relative;
+  top: -25px;
+}
+
+.unslider-arrow {
+  position: relative;
+  display: block;
+  width: 32px;
+  height: 32px;
+  margin-top: -16px;
+  overflow: hidden;
+  background: rgba(0,0,0,.2) no-repeat 50% 50%;
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAQCAQAAABuQZ3IAAAAi0lEQVR4AU3OISBEQQBAwS0AACS9NxqQgCZpkiYBVddFvWhAAUABAPQCAGC4g/0vTnrBqCfDIZl70J+kMUBPpEwT4FNXxBxz4F1HxHyr4EVTxBLb4EFNxEon4CJSlVNw9AcV9sC16h8osgke1P1ArgXwouVvdQq86ww/GQefusNf7kBviBlxpT8k+gL/Wox4r1d4MwAAAABJRU5ErkJggg==');
+  background-size: 7px 11px;
+  border-radius: 32px;
+  text-indent: -999em;
+  opacity: .6;
+  transition: opacity .2s;
+  top: -172px;
+}
+.unslider-arrow.next {
+  float: right;
+  left: 0;
+}
+.unslider-arrow.prev {
+  -ms-transform: rotate(-180deg);
+  transform: rotate(-180deg);
+  left: 0;
+}
+
+.nav-button {
+  display: block;
+  padding: 3px;
+  position: relative;
+  top: -10px;
+  border: 1px solid $white;
+  border-radius: 5px;
+  color: $white;
+  font-weight: normal;
+  float: right;
+  background-color: #2e7bcf;
+}
+
+a.nav-button:hover {
+  color: $white;
+  box-shadow: 0px 2px 3px $white;
+}
+
+.nav-button p.smaller {
+  text-align: center;
+  margin: 2px;
+  line-height: 10px;
+  font-size: 10pt;
+}
+
+.nav-button p.normal {
+  margin: 0;
+  line-height: normal;
+  font-size: large;
+  text-align: center;
+}
+
+#main {
+  font-size: 11pt;
+  text-align: justify;
+}
+
+#main img {
+  margin: 5px;
+}
+
+#main table {
+  width: 100%;
+  margin-top: 20px;
+  border: 0;
+}
+
+#main table tr th {
+  font-weight: bold;
+  font-size: 12pt;
+  width: 33%;
+  padding-bottom: 5px;
+}
+
+#main a:link, #main a:visited {
+  color: $blue;
+}
+
+#main h2 {
+  color: $black;
+  font-weight: 400;
+}
+
+footer {
+  font-size: 10pt;
+}
