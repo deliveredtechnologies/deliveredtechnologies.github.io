@@ -83,14 +83,14 @@
     ruleBookFromPkg<span class="k">.</span>run(facts);</pre></div>
                         </li>
                         <li>
-                            <h2>Oh, and there's support for Spring too.</h2>
+                            <h2>Oh, and it works with Spring too.</h2>
                             <div class="highlight highlight-source-java"><pre>    <span class="k">@Configuration</span>
     <span class="k">public</span> <span class="k">class</span> <span class="en">SpringConfig</span> {
         <span class="c1">...</span>
 
         <span class="k">@Bean</span>
-        <span class="k">public</span> <span class="smi">RuleBookFactoryBean</span> <span class="en">springRuleBook</span>() {
-            <span class="k">return</span> <span class="k">new</span> <span class="smi">RuleBookFactoryBean</span>(<span class="smi">com.example.myrulebook.MyRuleBook</span>);
+        <span class="k">public</span> <span class="smi">RuleBook</span> <span class="en">springRuleBook</span>() {
+            <span class="k">return</span> <span class="k">new</span> <span class="smi">RuleBookRunner</span>(<span class="smi">com.example.myrulebook.MyRuleBook</span>);
         }
     }</pre></div>
                         </li>
@@ -119,32 +119,32 @@
                 <td><a href="https://github.com/rulebook-rules/rulebook#21-a-helloworld-example">Hello World</a></td>
             </tr>
             <tr>
-                <td><a href="https://github.com/rulebook-rules/rulebook/wiki/Download-and-Install">Download &amp; Install</a></td>
+                <td><a href="https://github.com/rulebook-rules/rulebook#1-getting-rulebook">Download &amp; Install</a></td>
                 <td><a href="https://github.com/rulebook-rules/rulebook/wiki/RuleBooks">RuleBooks</a></td>
                 <td><a href="https://github.com/rulebook-rules/rulebook#22-the-above-example-using-facts">Hello World Using Facts</a></td>
             </tr>
             <tr>
                 <td><a href="https://github.com/rulebook-rules/rulebook/wiki/Frequently-Asked-Questions">Frequently Asked Questions</a></td>
-                <td><a href="https://github.com/rulebook-rules/rulebook/wiki/RuleBook's-Java-DSL">RuleBook's Java DSL</a></td>
+                <td><a href="https://github.com/rulebook-rules/rulebook#3-the-java-domain-specific-language-explained">RuleBook's Java DSL</a></td>
                 <td><a href="https://github.com/rulebook-rules/rulebook#41-a-hello-world-example">Hello World With POJO Rules</a></td>
             </tr>
             <tr>
-                <td><a href="https://github.com/rulebook-rules/rulebook/wiki/How-to-Contribute">Contributing to RuleBook</a></td>
-                <td><a href="https://github.com/rulebook-rules/rulebook/wiki/POJO-Rules">POJO Rules</a></td>
+                <td><a href="https://github.com/rulebook-rules/rulebook#6-how-to-contribute">Contributing to RuleBook</a></td>
+                <td><a href="https://github.com/rulebook-rules/rulebook#4-pojo-rules">POJO Rules</a></td>
                 <td><a href="https://github.com/rulebook-rules/rulebook#23-a-slightly-more-complex-scenario">A MegaBank Example</a></td>
             </tr>
             <tr>
                 <td><a href="https://github.com/rulebook-rules/rulebook/blob/master/LICENSE.txt">License Info</a></td>
-                <td><a href="https://github.com/rulebook-rules/rulebook/wiki/Spring-Support">Using RuleBook With Spring</a></td>
+                <td><a href="https://github.com/rulebook-rules/rulebook#5-using-rulebook-with-spring">Using RuleBook With Spring</a></td>
                 <td><a href="https://github.com/rulebook-rules/rulebook#42-a-new-megabank-example-with-pojo-rules">Another MegaBank Example</a></td>
             </tr>
         </table>
         <h2>Recent Updates</h2>
         <ul>
+            <li><i>08/13/2017 - RuleBook v0.8 released</i> » <a href="https://github.com/rulebook-rules/rulebook/releases/tag/v0.7">DSL Enhancements</a></li>
             <li><i>08/07/2017 - RuleBook v0.7 released</i> » <a href="https://github.com/rulebook-rules/rulebook/releases/tag/v0.7">RuleBook Thread Safety</a></li>
             <li><i>05/07/2017 - RuleBook v0.6 released</i> » <a href="https://github.com/rulebook-rules/rulebook/releases/tag/v0.6">Enhanced NameValueTypeConvertibleMap</a></li>
             <li><i>04/11/2017 - RuleBook v0.5 released</i> » <a href="https://github.com/rulebook-rules/rulebook/releases/tag/v0.5">DSL Refactoring & Enhanced Spring Support</a></li>
-            <li><i>03/23/2017 - RuleBook v0.4 released</i> » <a href="https://github.com/rulebook-rules/rulebook/releases/tag/v0.4">DSL Updates & Refactoring</a></li>
         </ul>
     </div>
 
