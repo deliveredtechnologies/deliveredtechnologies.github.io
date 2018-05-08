@@ -34,7 +34,7 @@ header.masthead.clearfix {
 }
 .javadocs p.smaller {
     line-height: 10px;
-    font-size: 10pt;
+    font-size: 14pt;
 }
 .javadocs a:link, .javadocs a:visited, .javadocs a:hover {
     color: white;
