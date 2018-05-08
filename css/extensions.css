@@ -25,3 +25,23 @@
     transform: rotate(-180deg);
     left: 0;
 }
+header.masthead.clearfix {
+    padding-bottom: 0;
+}
+.javadocs {
+    clear: both;
+    width: 100%;
+}
+.javadocs p.smaller {
+    line-height: 10px;
+    font-size: 10pt;
+}
+.javadocs a:link, .javadocs a:visited, .javadocs a:hover {
+    color: white;
+}
+.javadocs a:hover {
+    text-decoration: underline;
+}
+.javadocs a.right {
+    float: right;
+}
