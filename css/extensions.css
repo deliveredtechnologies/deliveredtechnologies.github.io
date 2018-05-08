@@ -43,7 +43,7 @@ header.masthead.clearfix {
     color: white;
 }
 .javadocs a:hover {
-    text-shadow: 0px 2px 3px #fff;
+    box-shadow: 0px 2px -2px #fff;
 }
 .javadocs a.right {
     float: right;
