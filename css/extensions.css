@@ -40,7 +40,7 @@ header.masthead.clearfix {
     margin-right: 18px;
 }
 .javadocs a:link, .javadocs a:visited, .javadocs a:hover {
-    color: white;
+    color: yellow;
 }
 .javadocs a:hover {
     text-decoration: underline;
