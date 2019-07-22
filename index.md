@@ -10,7 +10,7 @@ With RuleBook, there’s no guesswork or unpredictable behavior, which means dev
 
 <a href="https://github.com/deliveredtechnologies/rulebook">RuleBook on GitHub</a>
 
-# Terraform Maven Plugin
+# The Terraform Maven Plugin
 <img src="MavenTerraform.png" width="100px" align="left" style="margin: 10px 10px 30px 10px;">The Terraform Maven Plugin brings Maven to Terraform and greatly enhances the Terraform project lifecycle and dependency management experience. Maven in some form has been the standard for Java project management for over a decade. Now, all of that Maven goodness can be used with Terraform!
 
-<a href="https://github.com/deliveredtechnologies/terraform-maven">Terraform Maven Plugin on GitHub</a>
+<a href="https://github.com/deliveredtechnologies/terraform-maven">The Terraform Maven Plugin on GitHub</a>
