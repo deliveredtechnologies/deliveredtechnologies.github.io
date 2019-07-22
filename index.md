@@ -1,2 +1,7 @@
-#RuleBook
-#Terraform Maven Plugin
+---
+layout: default
+---
+
+# RuleBook
+
+# Terraform Maven Plugin
