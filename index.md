@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p align="center">{Simplifying Software}</p>
+_“In programming, simplicity and clarity are not a dispensable luxury, but a crucial matter that decides between success and failure.”_ - E. Dijkstra
 
 # RuleBook
 <img src="RuleBook.png" width="100px" align="left" style="margin: 10px 10px 30px 10px;"> RuleBook provides a simple, but powerful and flexible rules abstraction that has an incredibly short learning curve.
