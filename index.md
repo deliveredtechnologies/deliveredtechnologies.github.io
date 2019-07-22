@@ -2,6 +2,8 @@
 layout: default
 ---
 
+The Home of RuleBook and The Terraform Maven Plugin
+
 # RuleBook
 <img src="RuleBook.png" width="100px" align="left" style="margin: 10px 10px 30px 10px;"> RuleBook provides a simple, but powerful and flexible rules abstraction that has an incredibly short learning curve.
 With RuleBook, there’s no guesswork or unpredictable behavior, which means developers can spend more time creating useful functionality. And unlike many other rules engines, RuleBook can be used to drive workflows, where the ordering of rules is important. So, start simplifying your life and streamlining your code. Start using RuleBook today!
