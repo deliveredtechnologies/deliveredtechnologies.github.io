@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: Delivered Technologies
-description: Simplifying Software
+description: "{Simplifying Software}"
 github:
   rulebook_repo_url: https://github.com/deliveredtechnologies/rulebook
   terraform_maven_repo_url: https://github.com/deliveredtechnologies/terraform-maven
