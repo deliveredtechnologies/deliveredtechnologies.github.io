@@ -10,3 +10,12 @@ With RuleBook, there’s no guesswork or unpredictable behavior, which means dev
 
 # The Terraform Maven Plugin
 <a href="{{ site.github.terraform_maven_repo_url }}" style="border: 0px"><img src="MavenTerraform.png" width="100px" align="left" style="margin: 10px 10px 30px 10px;"></a>The Terraform Maven Plugin brings Maven to Terraform, which greatly enhances Terraform's project lifecycle and dependency management capability. Maven, in some form, has been the standard for Java project management for over a decade. Now, all of that Maven goodness can be used with Terraform!
+
+# <a href="https://medium.com/deliveredtechnologies">Delivered Technologies Articles</a>
+Delivered Technologies articles are now hosted on our Medium publication! Here, you will find technical articles
+and insightful posts about working in the software and technology industry. And keeping with the spirit of open source,
+we also accept contributions, which will be promoted right here!
+
+The latest post is...
+
+### <a href="https://medium.com/deliveredtechnologies/software-developers-stick-to-your-principles-689ad985aa2c">Software Developers, Stick To Your Principles!</a>
