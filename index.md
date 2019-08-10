@@ -16,6 +16,6 @@ With RuleBook, there’s no guesswork or unpredictable behavior, which means dev
 and insightful posts about working in the software and technology industry. And keeping with the spirit of open source,
 we also accept contributions, which will be promoted right here!
 
-The latest post is...
+#### The latest post is...
 
 <img src="https://miro.medium.com/max/1370/1*T1QLqs-f0Lq1sgVbHqXTdw.jpeg" width="100px" align="left" style="margin: 10px 10px 30px 10px;"><a href="https://medium.com/deliveredtechnologies/software-developers-stick-to-your-principles-689ad985aa2c">Software Developers, Stick To Your Principles!</a><br/><i>Sometimes being the unpopular voice can be the best thing for you and for your organization.</i>
