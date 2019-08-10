@@ -19,3 +19,4 @@ we also accept contributions, which will be promoted right here!
 The latest post is...
 
 ### <a href="https://medium.com/deliveredtechnologies/software-developers-stick-to-your-principles-689ad985aa2c">Software Developers, Stick To Your Principles!</a>
+<img src="https://miro.medium.com/max/1370/1*T1QLqs-f0Lq1sgVbHqXTdw.jpeg" width="100px" align="left" style="margin: 10px 10px 30px 10px;">Sometimes being the unpopular voice can be the best thing for you and for your organization.
