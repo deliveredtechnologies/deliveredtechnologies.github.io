@@ -18,4 +18,4 @@ we also accept contributions, which will be promoted right here!
 
 ### The latest post is...
 
-<img src="https://miro.medium.com/max/2000/1*uZ31PBp66urK4027xXlJqA.png" width="100px" align="left" style="margin: 10px 10px 30px 10px;"><a href="https://medium.com/deliveredtechnologies/anti-open-closed-is-the-new-black-b1c4c8028d6f">Anti-Open-Closed Is The New Black</a><br/><i>Let’s take a closer look at The Open-Closed Principle and why it is or is not relevant and/or worthy of practice.</i>
+<img src="https://miro.medium.com/max/700/0*AAljmumr4WQR2pdO.jpg" width="100px" align="left" style="margin: 10px 10px 30px 10px;"><a href="https://medium.com/deliveredtechnologies/making-terraform-testing-groovy-6a9278bdce1">Making Terraform Testing Groovy</a><br/><i>If you want to shift left with your testing and empower your developers with quick feedback then take a look Groovy test automation with Terraform!</i>
